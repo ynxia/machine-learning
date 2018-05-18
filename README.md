@@ -1,1 +1,1 @@
-# machine-learning
+Daily exercises for machine learning.
